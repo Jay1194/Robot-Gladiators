@@ -1,4 +1,3 @@
-
 // Player robot stats
 var playerName = window.prompt("What is your robots name?");
 var playerMoney = 10;
@@ -28,10 +27,11 @@ var enemyAttack = 12;
 
 window.alert("Welcome to Robot Gladiators");
 
+
 var fight = function(enemyName) {
 
-
-  
+  // repeat and execute as long as the enmy-robot is alive
+  while(enemyHealth > 0){
 
 // Fight or Skip 
 var promptFight = window.prompt("Would you like to FIGHT or SKIP this battle? Enter 'FIGHT' or 'SKIP' to choose.");
@@ -98,8 +98,17 @@ else {
 } else {
   window.alert("You need to choose a valid option. Try again!");
 }
+}
 };
 
-for(var i= 0; i < enemyNames.length; i++) {
-  fight(enemyNames[i]);
+for (var i = 0; i < enemyNames.length; i++) {
+
+  var pickedEnemyName = enemyNames[i];
+  enemyHealth = 50;
+  fight(pickedEnemyName);
 }
+
+
+
+
+
