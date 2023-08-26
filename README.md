@@ -5,7 +5,7 @@ I bult a in browser command prompt combat simulator game called Robot Gladiators
 robot through a series of fights—gaining cash, attack power, and repairs along the way. The robot that 
 survives with the most cash will be remembered in the browser's storage system! The technologys I used are HTML and javascript.
 
-## Mock Up - DEMO Video
+## Mock Up - Demo Video
 https://drive.google.com/file/d/1xRbTOShVFLCWzUSEyIGzNrHN8GFxT8IW/view
 
 ## Deployment
