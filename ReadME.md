@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1xRbTOShVFLCWzUSEyIGzNrHN8GFxT8IW/view
 
 ## Deployment
 
-* Application Deployment URL - https://jay1194.github.io/robot-gladiators/
+* Application Deployment URL - https://jay1194.github.io/Robot-Gladiators/
 
-*  GitHub Repository - https://github.com/Jay1194/robot-gladiators
+*  GitHub Repository - https://github.com/Jay1194/Robot-Gladiators
 
